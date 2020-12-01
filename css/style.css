@@ -413,6 +413,13 @@ header {
     opacity: .75;
 }
 
+.link{
+    color: inherit;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 1em;
+}
+
 
 /* Footer */
 
